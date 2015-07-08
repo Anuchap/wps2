@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">wps2</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+	<string name="mac1">Mac Address 1</string>
+	<string name="mac2">Mac Address 2</string>
+	<string name="mac3">Mac Address 3</string>
+	<string name="mac4">Mac Address 4</string>
+	<string name="mac5">Mac Address 5</string>
+	<string name="x">x</string>
+	<string name="y">y</string>
+	<string name="done">Done</string>
+	<string name="clear">Clear</string>
+
+</resources>

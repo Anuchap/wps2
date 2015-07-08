@@ -1,0 +1,239 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+	<LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical" >
+	
+		<TextView
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:text="@string/mac1" />
+		
+		<EditText 
+		    android:id="@+id/mac1"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content" 
+		    android:inputType="text" />
+		
+		<LinearLayout 
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="horizontal"
+		    android:layout_marginBottom="20dip">
+		    
+		    <TextView
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/x" />
+		
+			<EditText 
+			    android:id="@+id/x1"
+			    android:layout_width="100dip"
+			    android:layout_height="wrap_content" 
+			    android:inputType="number" />
+			
+		    <TextView
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/y" />
+		
+			<EditText 
+			    android:id="@+id/y1"
+			    android:layout_width="100dip"    
+			    android:layout_height="wrap_content" 
+			    android:inputType="number" />
+		
+		</LinearLayout>
+		
+		<TextView
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:text="@string/mac2" />
+		
+		<EditText 
+		    android:id="@+id/mac2"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content" 
+		    android:inputType="text" />
+		
+		<LinearLayout 
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="horizontal"
+		    android:layout_marginBottom="20dip">
+		    
+		    <TextView
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/x" />
+		
+			<EditText 
+			    android:id="@+id/x2"
+			    android:layout_width="100dip"
+			    android:layout_height="wrap_content" 
+			    android:inputType="number" />
+			
+		    <TextView
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/y" />
+		
+			<EditText 
+			    android:id="@+id/y2"
+			    android:layout_width="100dip"    
+			    android:layout_height="wrap_content" 
+			    android:inputType="number" />
+		
+		</LinearLayout>
+		
+		<TextView
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:text="@string/mac3" />
+		
+		<EditText 
+		    android:id="@+id/mac3"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content" 
+		    android:inputType="text" />
+		
+		<LinearLayout 
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="horizontal"
+		    android:layout_marginBottom="20dip">
+		    
+		    <TextView
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/x" />
+		
+			<EditText 
+			    android:id="@+id/x3"
+			    android:layout_width="100dip"
+			    android:layout_height="wrap_content" 
+			    android:inputType="number" />
+			
+		    <TextView
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/y" />
+		
+			<EditText 
+			    android:id="@+id/y3"
+			    android:layout_width="100dip"    
+			    android:layout_height="wrap_content" 
+			    android:inputType="number" />
+		
+		</LinearLayout>
+		
+		<TextView
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:text="@string/mac4" />
+		
+		<EditText 
+		    android:id="@+id/mac4"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content" 
+		    android:inputType="text" />
+		
+		<LinearLayout 
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="horizontal"
+		    android:layout_marginBottom="20dip">
+		    
+		    <TextView
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/x" />
+		
+			<EditText 
+			    android:id="@+id/x4"
+			    android:layout_width="100dip"
+			    android:layout_height="wrap_content" 
+			    android:inputType="number" />
+			
+		    <TextView
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/y" />
+		
+			<EditText 
+			    android:id="@+id/y4"
+			    android:layout_width="100dip"   
+			    android:layout_height="wrap_content" 
+			    android:inputType="number" />
+		
+		</LinearLayout>
+		
+		<TextView
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:text="@string/mac5" />
+		
+		<EditText 
+		    android:id="@+id/mac5"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content" 
+		    android:inputType="text" />
+		
+		<LinearLayout 
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="horizontal"
+		    android:layout_marginBottom="20dip">
+		    
+		    <TextView
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/x" />
+		
+			<EditText 
+			    android:id="@+id/x5"
+			    android:layout_width="100dip"
+			    android:layout_height="wrap_content" 
+			    android:inputType="number" />
+			
+		    <TextView
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:text="@string/y" />
+		
+			<EditText 
+			    android:id="@+id/y5"
+			    android:layout_width="100dip"    
+			    android:layout_height="wrap_content" 
+			    android:inputType="number" />
+		
+		</LinearLayout>
+	
+		<LinearLayout 
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content" 
+		    android:orientation="horizontal" 
+		    android:weightSum="1">
+			
+			<Button 
+			    android:id="@+id/done"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_weight=".5"
+			    android:text="@string/done" />
+			
+			<Button 
+			    android:id="@+id/clear"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_weight=".5"
+			    android:text="@string/clear" />
+		    
+		</LinearLayout>
+		
+	</LinearLayout>
+	
+</ScrollView>
